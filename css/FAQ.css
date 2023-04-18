@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.body{
+    padding: 30px;
+    
+}
+.container{
+    width: 80%;
+    background-color: #ade7e7;
+    margin: 30px 100px;
+    padding: 60px;
+    border: 10px solid rgb(60, 137, 232);
+}
+.title{
+    padding: 20px ;
+    text-align: center;
+}
+.q{
+    font-size: larger;
+    
+}
+.paragraph{
+    font-size: medium;
+    
+}
+.q{
+    margin:10px;
+}
